@@ -169,7 +169,7 @@ main {
     width: 100%;
     height: 65%;
     max-width: 400px;
-    background: rgba(246, 243, 249, 0.471);
+    background: rgba(249, 243, 248, 0.471);
     padding: 10px;
     background-size: cover;
     border-radius: 8px;
@@ -201,7 +201,7 @@ input, select { /*estilos de los cuadros de texto correo ,contraseña */
     margin-bottom: 12px;
     padding: 10px;
     border: 1px solid #ccc;
-    border-radius: 15px;
+    border-radius: 1px;
 }
 .button { /* estilos del boton y fuente del texto */
     padding: 10px;
@@ -260,7 +260,7 @@ a{
   }
   
   .neon-info-hi:hover {
-      box-shadow: 0 0 35px rgba(88, 236, 226, 0.95);
+      box-shadow: 0 0 35px rgba(219, 211, 210, 0.95);
       transform: translateY(-8px);
   }
   
